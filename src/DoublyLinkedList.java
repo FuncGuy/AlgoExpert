@@ -1,4 +1,5 @@
 public class DoublyLinkedList {
+
     private static DoublyLinkedList head;
     private static DoublyLinkedList tail;
 
